@@ -45,3 +45,4 @@ Missing Word Prompting:
 OUTPUT:
 
 RESULT: 
+Thus the different types of prompts are explored and executed successfully.
